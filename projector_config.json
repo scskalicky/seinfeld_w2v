@@ -1,0 +1,40 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "treaties - full texts - all",
+      "tensorShape": [
+        424, 
+       100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/treaty_vectors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/treaty_metadata.tsv"
+    }, 
+
+    {
+      "tensorName": "treaties - full texts - 21st century",
+      "tensorShape": [
+        208, 
+       100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/tfc_treaty_vectors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/tfc_treaty_metadata.tsv"
+
+    },
+
+    {"tensorName": "chapters - all ",
+    "tensorShape": [
+      3989, 100
+    ],
+    "tensorPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/chapter_vectors.tsv",
+    "metadataPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/full_chapter_metadata.tsv"
+    },
+    
+    {"tensorName": "chapters - 21st century",
+    "tensorShape": [
+      2822, 100
+    ],
+    "tensorPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/tfc_chapter_vectors.tsv",
+    "metadataPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/tfc_chapter_metadata.tsv"
+    }
+  ]
+}
