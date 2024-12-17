@@ -6,8 +6,8 @@
         4449, 
        100
       ],
-      "tensorPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/treaty_vectors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/treaty_metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/scskalicky/seinfeld_w2v/main/seinfeld_vectors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/scskalicky/seinfeld_w2v/main/word_list.tsv"
     }
   ]
 }
